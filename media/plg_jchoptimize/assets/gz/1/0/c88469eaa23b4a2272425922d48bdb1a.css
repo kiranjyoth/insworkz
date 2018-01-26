@@ -17870,7 +17870,7 @@ body.diversity .top-quote p {
         text-shadow: 0 1px 15px black
     }
     .diagonal-right.home-hero-banner p {
-        margin-bottom: -285px
+    /*     margin-bottom: -285px */
     }
     .why-deegit-blocks {
         margin-top: 225px !important
@@ -25776,4 +25776,16 @@ font-weight: bold;
 h2.top-header {
 font-weight: bold;
 color: #ff3c00;
+}
+.joblisting {
+  font-weight: bold;
+  color: #ff3c00;
+}
+
+.menu-button {
+  width: 150px;
+}
+
+a.btn.btn-primary.menu-button:hover {
+  background-color: gray;
 }
